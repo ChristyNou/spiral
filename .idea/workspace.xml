@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5945c718-5d5d-446f-8e1e-39219fd9ac65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZOVPMekEs6cBei09tQryUnx98I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.spiral" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MySpiralTest">
+    <configuration name="MySpiralTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spiral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spiral.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spiral" />
+      <option name="MAIN_CLASS_NAME" value="com.spiral.MySpiralTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpiralTest.checkMazeWithStartP_0_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spiral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spiral.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spiral" />
+      <option name="MAIN_CLASS_NAME" value="com.spiral.MySpiralTest" />
+      <option name="METHOD_NAME" value="checkMazeWithStartP_0_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpiralTest.checkMazeWithStartP_2_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spiral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spiral.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spiral" />
+      <option name="MAIN_CLASS_NAME" value="com.spiral.MySpiralTest" />
+      <option name="METHOD_NAME" value="checkMazeWithStartP_2_1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpiralTest.checkMazeWithStartP_2_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spiral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spiral.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spiral" />
+      <option name="MAIN_CLASS_NAME" value="com.spiral.MySpiralTest" />
+      <option name="METHOD_NAME" value="checkMazeWithStartP_2_2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySpiralTest.checkMazeWithStartP_2_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spiral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spiral.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spiral" />
+      <option name="MAIN_CLASS_NAME" value="com.spiral.MySpiralTest" />
+      <option name="METHOD_NAME" value="checkMazeWithStartP_2_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MySpiralTest" />
+        <item itemvalue="JUnit.MySpiralTest.checkMazeWithStartP_0_1" />
+        <item itemvalue="JUnit.MySpiralTest.checkMazeWithStartP_2_2" />
+        <item itemvalue="JUnit.MySpiralTest.checkMazeWithStartP_2_1" />
+        <item itemvalue="JUnit.MySpiralTest.checkMazeWithStartP_2_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5945c718-5d5d-446f-8e1e-39219fd9ac65" name="Default Changelist" comment="" />
+      <created>1584710102742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584710102742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Project_Structure" timestamp="1584710141520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1584710141520" />
+    <state x="436" y="110" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584710928653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="110" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584710928653" />
+    <state x="223" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584711249324">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="60" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584711249324" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584733741562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1584733741562" />
+    <state x="530" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1584901041820">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1584901041820" />
+    <state width="1481" height="281" key="GridCell.Tab.0.bottom" timestamp="1584903428717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584903428717" />
+    <state width="1481" height="281" key="GridCell.Tab.0.center" timestamp="1584903428717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584903428717" />
+    <state width="1481" height="281" key="GridCell.Tab.0.left" timestamp="1584903428717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584903428717" />
+    <state width="1481" height="281" key="GridCell.Tab.0.right" timestamp="1584903428717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584903428717" />
+    <state width="1236" height="245" key="GridCell.Tab.1.bottom" timestamp="1584735208390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1236" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584735208390" />
+    <state width="1236" height="245" key="GridCell.Tab.1.center" timestamp="1584735208390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1236" height="245" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1584735208390" />
+    <state width="1236" height="245" key="GridCell.Tab.1.left" timestamp="1584735208390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1236" height="245" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1584735208390" />
+    <state width="1236" height="245" key="GridCell.Tab.1.right" timestamp="1584735208390">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1236" height="245" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584735208390" />
+    <state x="473" y="46" width="589" height="726" key="RefactorJ.ExtractClass" timestamp="1584729424308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="46" width="589" height="726" key="RefactorJ.ExtractClass/0.0.1536.824@0.0.1536.824" timestamp="1584729424308" />
+    <state x="660" y="46" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584901063174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="660" y="46" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1584901063174" />
+    <state x="0" y="0" width="892" height="824" key="find.popup" timestamp="1584729736801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="892" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1584729736801" />
+    <state x="451" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1584897624599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="451" y="0" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1584897624599" />
+  </component>
+</project>
